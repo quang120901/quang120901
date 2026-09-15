@@ -106,15 +106,6 @@
   </a> 
 </p>
 
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<div style="display: flex; gap: 10px; flex-wrap: nowrap; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quang120901&theme=dark&show_icons=true&locale=en&layout=compact" alt="quang120901" style="height: 140px; width: auto; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=quang120901&theme=dark&show_icons=true&locale=en" alt="quang120901" style="height: 140px; width: auto; object-fit: contain;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=quang120901&theme=dark&hide_border=false" alt="quang120901" style="height: 140px; width: auto; object-fit: contain;" />
-</div>
-
-
 <h3 align="left">✍️ Random Dev Quote</h3>
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
