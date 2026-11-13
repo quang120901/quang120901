@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/quang120901?theme=dark&font=Ubuntu&ext=heatmap" width="75%" alt="LeetCode Statistics"/>
+<img src="https://leetcard.jacoblin.cool/quang120901?theme=dark&font=Ubuntu" width="75%" alt="LeetCode Statistics"/>
 
 </div>
 
